@@ -1,0 +1,2 @@
+# PureECS-TransformParentSample
+PureECSに於けるEntity同士の親子関係の構築方法 サンプル

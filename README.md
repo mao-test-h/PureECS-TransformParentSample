@@ -1,6 +1,8 @@
 # PureECS-TransformParentSample
 PureECSに於けるEntity同士の親子関係の構築方法 サンプル
 
+[※解説記事はこちら](https://qiita.com/mao_/items/a97109dfb6856f00da87)
+
 
 - **Unity version**
   - Unity 2018.1.5f1
